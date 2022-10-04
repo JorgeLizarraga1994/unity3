@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 698b71e20ca7adb41a837a5d871c1894
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CeldaPrefab: {fileID: 8591931214395503164, guid: 9c1428a597c4a6d4ab98ac2aa90468ee,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
